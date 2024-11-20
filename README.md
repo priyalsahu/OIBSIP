@@ -1,26 +1,37 @@
-👋 Hello, I'm Priyal!
-Welcome to my GitHub! I'm a passionate developer and problem-solver with a keen interest in creating impactful solutions using technology.
+### **Landing Page for Watches**  
 
-🔭 About Me
-🌟 Current Projects:
-Developing innovative solutions during my internship at Oasis Infobyte.
-Contributed to a women safety web app during the Smart India Hackathon (SIH).
+This repository contains the code for a visually appealing **Landing Page for Watches**, created using **HTML** and **CSS**. The page is designed to be responsive and user-friendly, showcasing key sections like a fixed navigation header and a hero banner to highlight the elegance and functionality of watches.
 
-🎓 Education & Certifications:
-Currently pursuing BTech from LNCT Group Of Colleges.
-Completed a Java Programming course through Infosys Springboard.
+---
 
-💡 Interests:
-Software development
-Web technologies
-Building applications with a focus on user experience and social impact
+### **Features**  
+- **Fixed Header**: Ensures seamless navigation across the page.  
+- **Hero Section**: Features a captivating full-screen background with overlay text and a call-to-action button.  
+- **Modern Design**: Styled with CSS for a clean and professional look.  
+- **Responsive Layout**: Adapts to various screen sizes for better usability.  
 
-💻 Skills
-Languages: Java, Python, HTML, CSS, JavaScript
-Frameworks & Tools: React, Node.js, Git, Bootstrap
-Others: Problem-solving, Team Collaboration, UI/UX Design
+---
 
-📈 My Journey
-🚀 From learning coding basics to working on real-world projects, my goal is to leverage technology to solve meaningful problems. Check out my projects to see my progress and the impact I aim to create!
+### **Technologies Used**  
+- **HTML5**: For structuring the webpage.  
+- **CSS3**: For styling and layout.  
 
-🌟 "Code is not just about solving problems, it's about creating a better future."
+---
+
+### **How to Use**  
+1. Clone or download the repository.  
+2. Open the `index.html` file in your browser to view the landing page.  
+
+---
+
+### **Preview**  
+You can check out the design by opening the `index.html` file in any modern web browser.  
+
+---
+
+### **Acknowledgment**  
+This project was created as part of my internship with **Oasis Infobyte**, helping me enhance my skills in web development.  
+
+---
+
+Feel free to fork, star ⭐, or contribute to this repository! 😊
